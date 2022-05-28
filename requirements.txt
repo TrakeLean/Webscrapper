@@ -1,4 +1,4 @@
-html_to_json==2.0.0
+urllib3==1.26.9
 beautifulsoup4==4.11.1
 lxml==4.8.0
 pandas==1.4.2
