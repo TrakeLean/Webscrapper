@@ -2,5 +2,4 @@ urllib3==1.26.9
 beautifulsoup4==4.11.1
 lxml==4.8.0
 pandas==1.4.2
-html-table-parser-python3==0.20
-xmltojson==2.0.1
+requests==2.27.1
